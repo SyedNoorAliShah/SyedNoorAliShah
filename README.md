@@ -1,9 +1,9 @@
-👋 Hi, I'm Syed Noor Ali Shah!
+## 👋 Hi, I'm Syed Noor Ali Shah!
 
 Welcome to my GitHub profile....
 ## 💼 What I Do
-## 📊 Data & Business Analysis — turning raw data into insights that matter.
-## 🧠 Educator at Heart — committed to sharing knowledge and empowering others through tech and data.
+ 📊 Data & Business Analysis — turning raw data into insights that matter.
+ 🧠 Educator at Heart — committed to sharing knowledge and empowering others through tech and data.
 
 ## 🛠️ Tech Stack
 ### 💡 Languages
