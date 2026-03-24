@@ -1,6 +1,6 @@
 👋 Hi, I'm Syed Noor Ali Shah!
 
-Welcome to my GitHub profile...
+Welcome to my GitHub profile....
 
 ## 🛠️ Tech Stack
 ### 💡 Languages
